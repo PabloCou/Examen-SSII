@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+body{
+   background-color: cyan;
+}
+ul{
+    text-align: left;
+    margin: auto;
+    font-size: 30px;
+}
